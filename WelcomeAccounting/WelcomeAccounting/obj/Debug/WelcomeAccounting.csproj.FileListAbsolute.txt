@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.pdb
