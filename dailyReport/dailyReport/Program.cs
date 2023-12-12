@@ -27,6 +27,8 @@ namespace dailyReport
             Console.WriteLine(courseName + ", that's great!");
             Console.ReadLine();
 
+            // Convert
+
             Console.WriteLine("What page number are you on?");
             string pageNum = Console.ReadLine();
             int numPage = Convert.ToInt32(pageNum);
@@ -58,6 +60,8 @@ namespace dailyReport
             string experiencesAnswer = Console.ReadLine();
             Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
             string feedbackAnswer = Console.ReadLine();
+
+            // Convert
 
             Console.WriteLine("How many hours did you study?");
             string hoursStudy = Console.ReadLine();
