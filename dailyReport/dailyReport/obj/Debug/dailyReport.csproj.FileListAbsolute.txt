@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\bin\Debug\dailyReport.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\bin\Debug\dailyReport.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\bin\Debug\dailyReport.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\obj\Debug\dailyReport.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\dailyReport\dailyReport\obj\Debug\dailyReport.pdb

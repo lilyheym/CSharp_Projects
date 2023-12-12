@@ -1,13 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-
-class Program
+namespace WelcomeAccounting
 {
-    static void Main()
+    class Program
     {
-        Console.WriteLine("Welcome to Arme Accounting Systems\nRemember, we're \"accounting\" on you!");
-        Console.ReadLine();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("What is your name?");
+            string yourName = Console.ReadLine();
+            Console.WriteLine("Your name is: ");
+        }
     }
 }
-
