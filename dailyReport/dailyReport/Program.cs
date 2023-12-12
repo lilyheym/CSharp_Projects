@@ -29,7 +29,8 @@ namespace dailyReport
 
             Console.WriteLine("What page number are you on?");
             string pageNum = Console.ReadLine();
-            Console.WriteLine("Page " + pageNum + ", good to go!");
+            int numPage = Convert.ToInt32(pageNum);
+            Console.WriteLine("Page " + numPage + ", good to go!");
             Console.ReadLine();
 
             // String and Bool variable
@@ -60,7 +61,9 @@ namespace dailyReport
 
             Console.WriteLine("How many hours did you study?");
             string hoursStudy = Console.ReadLine();
-            Console.WriteLine(hoursStudy + ", great job!");
+            int studyHours = Convert.ToInt32(hoursStudy);
+
+            Console.WriteLine(studyHours + ", great job!");
             Console.ReadLine();
 
             // Final Line
