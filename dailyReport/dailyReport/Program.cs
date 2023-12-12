@@ -58,6 +58,11 @@ namespace dailyReport
             Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
             string feedbackAnswer = Console.ReadLine();
 
+            Console.WriteLine("How many hours did you study?");
+            string hoursStudy = Console.ReadLine();
+            Console.WriteLine(hoursStudy + ", great job!");
+            Console.ReadLine();
+
             // Final Line
 
             Console.WriteLine("Thank you for your answers! An instructor will respond to this shortly. Have a great day!");
