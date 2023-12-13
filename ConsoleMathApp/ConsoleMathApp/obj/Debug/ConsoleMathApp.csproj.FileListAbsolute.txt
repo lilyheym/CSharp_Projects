@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\bin\Debug\ConsoleMathApp.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\bin\Debug\ConsoleMathApp.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\bin\Debug\ConsoleMathApp.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\obj\Debug\ConsoleMathApp.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\obj\Debug\ConsoleMathApp.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\obj\Debug\ConsoleMathApp.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\Basics\ConsoleMathApp\ConsoleMathApp\obj\Debug\ConsoleMathApp.pdb
