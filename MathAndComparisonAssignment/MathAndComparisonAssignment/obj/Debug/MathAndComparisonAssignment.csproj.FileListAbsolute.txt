@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\MathAndComparisonAssignment.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\MathAndComparisonAssignment.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\MathAndComparisonAssignment.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.pdb
