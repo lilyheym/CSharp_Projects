@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\bin\Debug\BooelanLogicAssignment.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\bin\Debug\BooelanLogicAssignment.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\bin\Debug\BooelanLogicAssignment.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\obj\Debug\BooelanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\obj\Debug\BooelanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\obj\Debug\BooelanLogicAssignment.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\BooelanLogicAssignment\BooelanLogicAssignment\obj\Debug\BooelanLogicAssignment.pdb

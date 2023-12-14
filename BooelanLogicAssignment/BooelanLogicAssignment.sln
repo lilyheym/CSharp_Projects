@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooelanLogicAssignment", "BooelanLogicAssignment\BooelanLogicAssignment.csproj", "{632530A2-F070-4BDC-A057-B64DB3511B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632530A2-F070-4BDC-A057-B64DB3511B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632530A2-F070-4BDC-A057-B64DB3511B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632530A2-F070-4BDC-A057-B64DB3511B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632530A2-F070-4BDC-A057-B64DB3511B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F803B3-0DFC-421A-A8B8-D9245A37E86F}
+	EndGlobalSection
+EndGlobal
