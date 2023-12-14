@@ -13,12 +13,16 @@ namespace MathAndComparisonAssignment
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.ReadLine();
 
+            // Person 1 info gathering
+
             Console.WriteLine("Person 1");
             Console.ReadLine();
             Console.WriteLine("Hourly Rate:");
             string hourRatePerson1 = Console.ReadLine();
             Console.WriteLine("Hours worked per week:");
             string hoursWorkedPerson1 = Console.ReadLine();
+
+            // Person 2 info gathering
 
             Console.WriteLine("Person 2");
             Console.ReadLine();
@@ -27,20 +31,28 @@ namespace MathAndComparisonAssignment
             Console.WriteLine("Hours worked per week:");
             string hoursWorkedPerson2 = Console.ReadLine();
 
+            // doing the math Person 1
+
             double ratePerson1 = Convert.ToDouble(hourRatePerson1);
             double workedPerson1 = Convert.ToDouble(hoursWorkedPerson1);
             double weeklySalaryPerson1 = ratePerson1 * workedPerson1;
             double annualSalaryPerson1 = weeklySalaryPerson1 * 52;
 
+            // doing the math Person 2
+
             double ratePerson2 = Convert.ToDouble(hourRatePerson2);
             double workedPerson2 = Convert.ToDouble(hoursWorkedPerson2);
             double weeklySalaryPerson2 = ratePerson2 * workedPerson2;
             double annualSalaryPerson2 = weeklySalaryPerson2 * 52;
+
+            // annual salaries
              
             Console.WriteLine("Annual salary of Person 1: " + annualSalaryPerson1);
             Console.ReadLine();
             Console.WriteLine("Annual salary of Person 2: " + annualSalaryPerson2);
             Console.ReadLine();
+
+            // bool
 
             Console.WriteLine("Does Person 1 make more than Person 2?");
             Console.ReadLine();
