@@ -26,7 +26,7 @@ namespace BooelanLogicAssignment
             Console.WriteLine("Have you ever had a DUI?");
             string dui = Console.ReadLine();
             bool duiHowMany = Convert.ToBoolean(dui);
-            bool duiQualify = duiHowMany == false;
+            
 
 
             // Under 3 sppeding tickets
@@ -34,11 +34,11 @@ namespace BooelanLogicAssignment
             Console.WriteLine("How many speeding tickets do you have?");
             string speeding = Console.ReadLine();
             int speedingTicket = Convert.ToInt32(speeding);
-            bool ticketSpeeding = speedingTicket < 3;
+            bool ticketSpeeding = speedingTicket <= 3;
 
             Console.WriteLine("Qualified?");
             Console.ReadLine();
-            Console.WriteLine(ageFifteen && duiQualify && ticketSpeeding);
+            Console.WriteLine(ageFifteen && !duiHowMany && ticketSpeeding);
             Console.ReadLine();
 
 
