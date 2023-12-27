@@ -30,7 +30,6 @@ namespace ArrayAssignment
             {
                 Console.WriteLine("Sorry, this index does not exist in the array, try again next time.");
                 Console.ReadLine();
-                return;
             }
             else
             {
