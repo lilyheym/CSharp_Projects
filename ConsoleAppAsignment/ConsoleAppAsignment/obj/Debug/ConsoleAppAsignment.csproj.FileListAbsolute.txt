@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\bin\Debug\ConsoleAppAsignment.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\bin\Debug\ConsoleAppAsignment.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\bin\Debug\ConsoleAppAsignment.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\obj\Debug\ConsoleAppAsignment.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\obj\Debug\ConsoleAppAsignment.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\obj\Debug\ConsoleAppAsignment.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ConsoleAppAsignment\ConsoleAppAsignment\obj\Debug\ConsoleAppAsignment.pdb
