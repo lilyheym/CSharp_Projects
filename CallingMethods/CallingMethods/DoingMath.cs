@@ -19,8 +19,6 @@ namespace CallingMethods
         {
             
             int methodOutput = userInput + 25;
-            Console.WriteLine(methodOutput);
-            Console.ReadLine();
             return methodOutput;
         }
 
@@ -31,8 +29,6 @@ namespace CallingMethods
         {
             
             int methodOutput2 = userInput - 5;
-            Console.WriteLine(methodOutput2);
-            Console.ReadLine();
             return methodOutput2;
         }
 
@@ -40,9 +36,7 @@ namespace CallingMethods
         public static int DoingMultiplication(int userInput)
         {
             
-            int methodOutput3 = userInput * 3;
-            Console.WriteLine(methodOutput3);
-            Console.ReadLine();
+            int methodOutput3 = userInput * 3;   
             return methodOutput3;
         }
     }
