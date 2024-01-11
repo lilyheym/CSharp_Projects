@@ -8,10 +8,13 @@ namespace CallingMethods
 {
     public class DoingMath
     {
+
+        // constructor. idk it's not doing anything just here as a reminder/placeholder
         public DoingMath()
         {
 
         }
+        // method 1
         public static int DoingAddition(int userInput)
         {
             
@@ -20,6 +23,8 @@ namespace CallingMethods
             Console.ReadLine();
             return methodOutput;
         }
+
+        // method 2
 
 
         public static int DoingSubtraction(int userInput)
@@ -30,6 +35,8 @@ namespace CallingMethods
             Console.ReadLine();
             return methodOutput2;
         }
+
+        // method 3
         public static int DoingMultiplication(int userInput)
         {
             
