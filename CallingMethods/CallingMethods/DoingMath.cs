@@ -12,28 +12,31 @@ namespace CallingMethods
         {
 
         }
-        public static void DoingAddition()
+        public static int DoingAddition(int userInput)
         {
             
             int methodOutput = userInput + 25;
             Console.WriteLine(methodOutput);
             Console.ReadLine();
+            return methodOutput;
         }
 
 
-        public static void DoingSubtraction()
+        public static int DoingSubtraction(int userInput)
         {
             
-            int methodOutput2 = userInput2 - 5;
+            int methodOutput2 = userInput - 5;
             Console.WriteLine(methodOutput2);
             Console.ReadLine();
+            return methodOutput2;
         }
-        public static void DoingMultiplication()
+        public static int DoingMultiplication(int userInput)
         {
             
-            int methodOutput3 = userInput3 * 3;
+            int methodOutput3 = userInput * 3;
             Console.WriteLine(methodOutput3);
             Console.ReadLine();
+            return methodOutput3;
         }
     }
 }
