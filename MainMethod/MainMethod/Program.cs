@@ -11,19 +11,12 @@ namespace MainMethod
        static void Main(string[] args)
         {
             MathClass obj = new MathClass();
-            Console.WriteLine("Please enter a whole positive number.");
-
-            // int entry
-
-            int userEntry1 = Convert.ToInt32(Console.ReadLine());
-            int result1;
-            int result2;
-            int result3;
+           
 
 
-            result1 = obj.MoreMath(userEntry1);
-            result2 = obj.MoreMath(userEntry1);
-            result3 = obj.MoreMath(userEntry1);
+            int result1 = obj.MoreMath(10);
+            int result2 = obj.MoreMath(7.2m);
+            int result3 = obj.MoreMath("32");
 
             Console.WriteLine(result1);
             Console.WriteLine(result2);
