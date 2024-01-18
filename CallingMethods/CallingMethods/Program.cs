@@ -5,7 +5,7 @@ namespace CallingMethods
 {
     class Program
     {
-        public void Main(string[] args)
+        static void Main(string[] args)
         {
             // prompt user to input number
 

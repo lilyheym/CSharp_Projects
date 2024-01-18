@@ -1,2 +1,7 @@
 C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
 C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.exe

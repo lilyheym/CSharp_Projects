@@ -11,23 +11,23 @@ namespace MainMethod
         
         public int MoreMath(int userEntry1)
         {
-            int additionResult = userEntry1 + 5;
+            int makingInt = Convert.ToInt32(userEntry1);
+            int additionResult = makingInt + 5;
             return additionResult;
         }
 
-        public decimal MoreMath(decimal userEntry2)
+        public int MoreMath(decimal userEntry1)
         {
-            decimal additionDecimal = userEntry2 + 5;
-            int decimalResult = Convert.ToInt32(additionDecimal);
+            int additionDecimal = Convert.ToInt32(userEntry1);
+            int decimalResult = additionDecimal + 5;
             return decimalResult;
         }
 
-        public string MoreMath(string userEntry3)
+        public int MoreMath(string userEntry1)
         {
-            int additionStrings = Convert.ToInt32(userEntry3);
+            int additionStrings = Convert.ToInt32(userEntry1);
             int stringResult = additionStrings + 5;
-            string pleaseWork = Convert.ToString(stringResult);
-            return pleaseWork;
+            return stringResult;
         }
         
     }
