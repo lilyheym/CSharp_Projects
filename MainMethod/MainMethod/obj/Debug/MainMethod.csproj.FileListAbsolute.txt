@@ -1,0 +1,2 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache

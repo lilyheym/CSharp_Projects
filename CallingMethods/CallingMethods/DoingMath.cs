@@ -15,7 +15,7 @@ namespace CallingMethods
 
         }
         // method 1
-        public static int DoingAddition(int userInput)
+        public int DoingAddition(int userInput)
         {
             
             int methodOutput = userInput + 25;
@@ -25,7 +25,7 @@ namespace CallingMethods
         // method 2
 
 
-        public static int DoingSubtraction(int userInput)
+        public int DoingSubtraction(int userInput)
         {
             
             int methodOutput2 = userInput - 5;
@@ -33,7 +33,7 @@ namespace CallingMethods
         }
 
         // method 3
-        public static int DoingMultiplication(int userInput)
+        public int DoingMultiplication(int userInput)
         {
             
             int methodOutput3 = userInput * 3;   
