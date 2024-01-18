@@ -12,7 +12,7 @@ namespace MainMethod
         {
             MathClass obj = new MathClass();
            
-
+            // calling methods
 
             int result1 = obj.MoreMath(10);
             int result2 = obj.MoreMath(7.2m);

@@ -8,7 +8,7 @@ namespace MainMethod
 {
     public class MathClass
     {
-        
+        // integer
         public int MoreMath(int userEntry1)
         {
             int makingInt = Convert.ToInt32(userEntry1);
@@ -16,6 +16,7 @@ namespace MainMethod
             return additionResult;
         }
 
+        // decimal
         public int MoreMath(decimal userEntry1)
         {
             int additionDecimal = Convert.ToInt32(userEntry1);
@@ -23,6 +24,7 @@ namespace MainMethod
             return decimalResult;
         }
 
+        // string
         public int MoreMath(string userEntry1)
         {
             int additionStrings = Convert.ToInt32(userEntry1);
