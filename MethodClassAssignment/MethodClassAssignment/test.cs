@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodClassAssignment
 {
-    class Voyager
+    class test
     {
-        public void Tuvok(int a, int b = 0)
-        {
-            int c = a - 6;
-            Console.WriteLine(b);
-            
-        }
     }
 }

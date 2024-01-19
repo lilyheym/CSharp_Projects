@@ -12,12 +12,13 @@ namespace MethodClassAssignment
         {
             Voyager obj = new Voyager();
 
-            int a = 1;
-            int b = 6;
 
-            int result = obj.Tuvok(a, b);
 
-            int result2 = obj.Tuvok(7, 5);
+            obj.Tuvok(a:5, b:7);
+
+            obj.Tuvok(7, 5);
+
+            Console.ReadLine();
         }
     }
 }
