@@ -10,6 +10,8 @@ namespace MethodClassAssignment
     {
         public void Tuvok(int a, int b = 0)
         {
+            // doing math operation on one parameter, displaying the other
+
             int c = a - 6;
             Console.WriteLine(b);
             
