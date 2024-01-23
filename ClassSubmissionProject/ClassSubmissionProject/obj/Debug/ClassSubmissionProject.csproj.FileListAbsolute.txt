@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\bin\Debug\ClassSubmissionProject.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\bin\Debug\ClassSubmissionProject.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\bin\Debug\ClassSubmissionProject.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\obj\Debug\ClassSubmissionProject.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\obj\Debug\ClassSubmissionProject.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\obj\Debug\ClassSubmissionProject.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ClassSubmissionProject\ClassSubmissionProject\obj\Debug\ClassSubmissionProject.pdb
