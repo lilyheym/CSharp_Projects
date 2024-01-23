@@ -27,11 +27,6 @@ namespace ClassSubmissionProject
             result = input * 5;
         }
 
-        // 6. Declare a method to be static
-        public static int Morn(int Jadzia)
-        {
-            Jadzia = 7;
-            return Jadzia;
-        }
+       
     }
 }
