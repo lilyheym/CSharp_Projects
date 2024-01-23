@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2B2C581C-DC3E-49D0-B548-BD9E45422EC9}</ProjectGuid>
+    <ProjectGuid>{E7782DEC-5EA6-4CD3-AE74-568AEC944B5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassSubmissionProject</RootNamespace>
-    <AssemblyName>ClassSubmissionProject</AssemblyName>
+    <RootNamespace>MethodsAndObjects</RootNamespace>
+    <AssemblyName>MethodsAndObjects</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DeepSpaceNine.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TheNextGeneration.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
