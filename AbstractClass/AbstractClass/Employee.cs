@@ -13,7 +13,7 @@ namespace AbstractClass
 
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
         }
     }
 }

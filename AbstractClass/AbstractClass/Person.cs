@@ -14,9 +14,7 @@ namespace AbstractClass
 
         // 2. Give it the method SayName();
 
-        public virtual void SayName()
-        {
-            Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
-        }
+        public abstract void SayName();
+        
     }
 }
