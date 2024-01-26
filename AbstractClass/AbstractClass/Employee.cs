@@ -15,5 +15,15 @@ namespace AbstractClass
         {
             Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
         }
+        // Interface Assignment 2. Have your employee clasa from the previous assignment inherit that interface and implement the Quit() method in any way you choose
+        public void Quit()
+        {
+            bool EmploymentStatus = true;
+            Console.WriteLine(EmploymentStatus);
+        }
     }
+
+    
+
+   
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F4F676B8-F194-43FD-831E-0356DBCD1FBF}</ProjectGuid>
+    <ProjectGuid>{A4741E29-F3EB-4DFE-98B7-807D82BB9091}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractClass</RootNamespace>
-    <AssemblyName>AbstractClass</AssemblyName>
+    <RootNamespace>PolymorphismSubmissionAssignment</RootNamespace>
+    <AssemblyName>PolymorphismSubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
     <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
