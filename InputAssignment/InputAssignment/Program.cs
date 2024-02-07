@@ -11,10 +11,13 @@ namespace InputAssignment
     {
         static void Main(string[] args)
         {
+            // prompts user for number
             Console.WriteLine("Please write a number.");
             string inputText = Console.ReadLine();
+            // adds input to file
             File.WriteAllText(@"C:\Users\lilyr\Logs\InpuAssignment.txt", inputText);
             string readInput = File.ReadAllText(@"C:\Users\lilyr\Logs\InpuAssignment.txt");
+            // prints file back to conole
             Console.WriteLine(readInput);
             Console.Read();
         }
