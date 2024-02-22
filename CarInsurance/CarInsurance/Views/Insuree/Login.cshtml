@@ -1,0 +1,32 @@
+﻿@model CarInsurance.Models.Insuree
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>AdminLogin</h2>
+
+
+@using (Html.BeginForm("Login", "Insuree", FormMethod.Post))
+{
+
+    <div class="form-horizontal">
+        <div>
+            <h4>Login</h4>
+            <hr />
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required />
+        </div>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required />
+        </div>
+        <button type="submit">Login</button>
+    </div>
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <p>@ViewBag.ErrorMessage</p>               
+}
+

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<h3>Insuree Quotes</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quote)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var quote in Model)
+            {
+               <tr>
+                   <td>@quote.FirstName</td>
+                   <td>@quote.LastName</td>
+                   <td>@quote.EmailAddress</td>
+                   <td>@quote.Quote</td>
+               </tr>
+            }
+    </tbody>
+</table>
+
+
+
+
