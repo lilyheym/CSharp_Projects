@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\finalchallengesubmission\\finalchallengesubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|solutionrelative:finalchallengesubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\finalchallengesubmission\\finalchallengesubmission\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|solutionrelative:finalchallengesubmission\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\finalchallengesubmission\\finalchallengesubmission\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|solutionrelative:finalchallengesubmission\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\finalchallengesubmission\\finalchallengesubmission\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972E4939-B433-463D-91B0-532C64DA32F5}|FinalChallengeSubmission\\FinalChallengeSubmission.csproj|solutionrelative:finalchallengesubmission\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "FinalChallengeSubmission\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\SchoolContext.cs",
+              "RelativeToolTip": "FinalChallengeSubmission\\SchoolContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:02:04.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\Grade.cs",
+              "RelativeDocumentMoniker": "FinalChallengeSubmission\\Grade.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\Grade.cs",
+              "RelativeToolTip": "FinalChallengeSubmission\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:59:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\Student.cs",
+              "RelativeDocumentMoniker": "FinalChallengeSubmission\\Student.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\Student.cs",
+              "RelativeToolTip": "FinalChallengeSubmission\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:56:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\Program.cs",
+              "RelativeDocumentMoniker": "FinalChallengeSubmission\\Program.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\FinalChallengeSubmission\\FinalChallengeSubmission\\Program.cs",
+              "RelativeToolTip": "FinalChallengeSubmission\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:49:10.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

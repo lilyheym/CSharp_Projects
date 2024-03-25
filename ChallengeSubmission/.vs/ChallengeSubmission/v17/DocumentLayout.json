@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\views\\datetime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\views\\datetime\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\controllers\\currenttimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\controllers\\currenttimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\models\\currenttimemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\models\\currenttimemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\views\\datetime\\currenttime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\views\\datetime\\currenttime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|c:\\users\\lilyr\\onedrive\\documents\\github\\csharp_projects\\csharp_projects\\challengesubmission\\challengesubmission\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4C0514-BAD6-49CD-A786-D46758A899C7}|ChallengeSubmission\\ChallengeSubmission.csproj|solutionrelative:challengesubmission\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 375,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentTimeModel.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Models\\CurrentTimeModel.cs",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Models\\CurrentTimeModel.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Models\\CurrentTimeModel.cs",
+              "RelativeToolTip": "ChallengeSubmission\\Models\\CurrentTimeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:20:51.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChallengeSubmission\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:37:30.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChallengeSubmission\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:18:12.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Controllers\\CurrentTimeController.cs",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Controllers\\CurrentTimeController.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Controllers\\CurrentTimeController.cs",
+              "RelativeToolTip": "ChallengeSubmission\\Controllers\\CurrentTimeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:01:43.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChallengeSubmission\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:05:14.984Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 25,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\DateTime\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Views\\DateTime\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\DateTime\\Index.cshtml",
+              "RelativeToolTip": "ChallengeSubmission\\Views\\DateTime\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T08:46:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentTime.cshtml",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\DateTime\\CurrentTime.cshtml",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Views\\DateTime\\CurrentTime.cshtml",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\DateTime\\CurrentTime.cshtml",
+              "RelativeToolTip": "ChallengeSubmission\\Views\\DateTime\\CurrentTime.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T08:46:17.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Program.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Program.cs",
+              "RelativeToolTip": "ChallengeSubmission\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:50:28.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ChallengeSubmission\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:07:58.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ChallengeSubmission\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ChallengeSubmission\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:00:38.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

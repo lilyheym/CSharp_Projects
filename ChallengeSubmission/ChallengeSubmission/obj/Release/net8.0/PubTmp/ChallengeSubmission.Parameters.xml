@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ChallengeSubmission20240227013446" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\lilyr\\OneDrive\\Documents\\GitHub\\CSharp_Projects\\CSharp_Projects\\ChallengeSubmission\\ChallengeSubmission\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

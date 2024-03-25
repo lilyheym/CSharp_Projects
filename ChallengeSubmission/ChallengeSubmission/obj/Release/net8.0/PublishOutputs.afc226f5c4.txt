@@ -1,0 +1,7 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission.dll
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission.deps.json
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission.runtimeconfig.json
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\ChallengeSubmission\ChallengeSubmission\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission.pdb

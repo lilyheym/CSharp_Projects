@@ -1,0 +1,12 @@
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.exe.config
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.pdb
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.dll
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.xml
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.AssemblyReference.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalCha.914DA6AE.Up2Date
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.exe
+C:\Users\lilyr\OneDrive\Documents\GitHub\CSharp_Projects\CSharp_Projects\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.pdb
